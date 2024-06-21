@@ -1,0 +1,6 @@
+.env
+.venv
+traders
+traders/*
+__pycache__
+.idea
